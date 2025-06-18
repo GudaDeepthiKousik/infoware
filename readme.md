@@ -101,7 +101,7 @@ pyinstaller --onefile --windowed login.py
 
 ## 🎥 Demo Video
 
-👉 [Link to Demo Video](#) *(upload to Drive or YouTube and paste the link here)*
+👉 [Link to Demo Video](#) *(https://drive.google.com/file/d/1zgKcL-KTZYhavLpMXfMSxMvwgTPT3jXB/view?usp=sharing)*
 
 ---
 
